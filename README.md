@@ -1,9 +1,9 @@
 # CreateXXX
 
-The first website I created.
+The very first website I created.
 
 # Demo: 
-https://skala10.github.io/CreateXXX/
+https://skala10.github.io/createXXX/
 
 ## Technologies
 
